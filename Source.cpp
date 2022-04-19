@@ -1,6 +1,9 @@
-
-
-
+/*
+ * source.cpp & PythonFile.py for the Multiplication table
+ *
+ *  Date: [4/15/2022]
+ *  Author: [Kokou ADISSOU]
+ */
 #include <Python.h>
 #include <iostream>
 #include <Windows.h>
